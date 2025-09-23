@@ -6,7 +6,7 @@
  ```java
 public class Lou Diamond
   {
-    private static int age = 20;
+    private static int age = 21;
     public static String[] traits = new String[] { "dumb", "short", "nerd" };
     public static String[] hobbies = new String[] { "Coding!", "Judo", "Gym", "Math", "Chess", "Sleeping" };
   }
@@ -19,8 +19,11 @@ public class Lou Diamond
   * Grinding LeetCode
 
 # 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,supabase,tailwind)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel.tailwind)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=react.nextjs.vue)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,cs)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=supabase.firebase.postgres.sqlite)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,ubuntu)](https://skillicons.dev)
 
 # 📈 Stats
