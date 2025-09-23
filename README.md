@@ -20,11 +20,12 @@ public class Lou Diamond
 
 # 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=php,laravel.tailwind)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=react.nextjs.vue)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwind)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,cs)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=supabase.firebase.postgres.sqlite)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,postgres,sqlite)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,ubuntu)](https://skillicons.dev)
+
 
 # 📈 Stats
 
