@@ -6,7 +6,7 @@
  ```java
 public class Lou Diamond
   {
-    private static int age = 21;
+    private static int age = 22;
     public static String[] traits = new String[] { "dumb", "short", "nerd" };
     public static String[] hobbies = new String[] { "Coding!", "Judo", "Gym", "Math", "Chess", "Sleeping" };
   }
