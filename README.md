@@ -14,9 +14,9 @@ public class Lou Diamond
 
 # 📍 What Am I Doing?
 * 📋 Currently I am:
-  * Studying in University
+  * Working
   * Self-teaching AI / Machine Learning
-  * Grinding LeetCode
+  * Grinding Coding Agents
 
 # 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) <br>
